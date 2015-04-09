@@ -1,5 +1,5 @@
 {
-    "name": "odaialali/yii2-toastr",
+    "name": "ajkosh/yii2-toastr",
     "description": "This is the Toastr extension for Yii 2. It encapsulates Toastr plugin in terms of Yii widgets, and makes ajax notification easy to implement.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","toastr","notification"],
